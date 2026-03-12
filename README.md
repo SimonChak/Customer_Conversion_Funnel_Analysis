@@ -17,6 +17,6 @@ Using behavioral analytics and funnel visualization, we isolate friction points 
 **Manager KPIs:** Define actionable metrics (e.g., registration-to-deposit rate, average time-to-first-deposit) to hold teams accountable and drive continuous improvement.
 
 # Outcome:
-By focusing resources on users most likely to convert and eliminating conversion barriers, we aim to increase the registration-to-deposit rate by 25–40% within 3 months, while reducing cost-per-deposit by 20%.
+By focusing resources on users most likely to convert and eliminating conversion barriers, we aim to increase the registration-to-deposit rate by 25–40% within 3 months.
 
 This analysis is fully reproducible using Python (Pandas, Matplotlib, Seaborn) and integrates with our existing BI dashboard for real-time monitoring.
